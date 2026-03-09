@@ -28,3 +28,6 @@ Thumbs.db
 # VS Code
 .vscode/
 
+# GitHub Copilot agents (local only)
+.github/agents/
+
