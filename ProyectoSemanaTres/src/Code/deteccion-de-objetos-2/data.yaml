@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['alicate', 'dron']
+
+roboflow:
+  workspace: robinsons-workspace-4qhg1
+  project: deteccion-de-objetos-pfrot
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/robinsons-workspace-4qhg1/deteccion-de-objetos-pfrot/dataset/2
